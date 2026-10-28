@@ -23,6 +23,12 @@
           "label": "Keywords"
         },
         {
+          "component": "text",
+          "valueType": "string",
+          "name": "custom",
+          "label": "Custom"
+        },
+        {
           "component": "aem-tag",
           "label": "AEM Tag Picker 2",
           "description": "Select an AEM tag",
