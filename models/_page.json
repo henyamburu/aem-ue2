@@ -27,7 +27,7 @@
           "label": "AEM Tag Picker",
           "description": "Select an AEM tag",
           "name": "cq:tags",
-          "valueType": "string",
+          "valueType": "array",
           "rootPath": "/content/cq:tags/wknd-shared"
         }
       ]
