@@ -26,7 +26,7 @@
           "component": "text",
           "valueType": "string",
           "name": "custom",
-          "label": "Custom"
+          "label": "Custom 2"
         },
         {
           "component": "aem-tag",
